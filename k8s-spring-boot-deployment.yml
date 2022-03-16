@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: s13hlc-docker-demo:s13hlc-docker-aws-demo
+          image: s13hlc/s13hlc-docker-demo:s13hlc-docker-aws-demo
 
           resources:
             requests:
